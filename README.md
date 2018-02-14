@@ -1,2 +1,1 @@
-# CShark
-A C# discord bot
+Soon™
