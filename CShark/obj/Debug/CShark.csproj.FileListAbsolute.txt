@@ -1,0 +1,20 @@
+C:\Users\hp\Desktop\Files\CShark\CShark\bin\Debug\CShark.exe.config
+C:\Users\hp\Desktop\Files\CShark\CShark\bin\Debug\CShark.exe
+C:\Users\hp\Desktop\Files\CShark\CShark\bin\Debug\CShark.pdb
+C:\Users\hp\Desktop\Files\CShark\CShark\obj\Debug\CShark.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\Files\CShark\CShark\obj\Debug\CShark.Form1.resources
+C:\Users\hp\Desktop\Files\CShark\CShark\obj\Debug\CShark.Properties.Resources.resources
+C:\Users\hp\Desktop\Files\CShark\CShark\obj\Debug\CShark.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\Files\CShark\CShark\obj\Debug\CShark.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Files\CShark\CShark\obj\Debug\CShark.exe
+C:\Users\hp\Desktop\Files\CShark\CShark\obj\Debug\CShark.pdb
+C:\Users\hp\Desktop\Files\CShark PhotoShop\CShark\bin\Debug\CShark.exe.config
+C:\Users\hp\Desktop\Files\CShark PhotoShop\CShark\bin\Debug\CShark.exe
+C:\Users\hp\Desktop\Files\CShark PhotoShop\CShark\bin\Debug\CShark.pdb
+C:\Users\hp\Desktop\Files\CShark PhotoShop\CShark\obj\Debug\CShark.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\Files\CShark PhotoShop\CShark\obj\Debug\CShark.Form1.resources
+C:\Users\hp\Desktop\Files\CShark PhotoShop\CShark\obj\Debug\CShark.Properties.Resources.resources
+C:\Users\hp\Desktop\Files\CShark PhotoShop\CShark\obj\Debug\CShark.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\Files\CShark PhotoShop\CShark\obj\Debug\CShark.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Files\CShark PhotoShop\CShark\obj\Debug\CShark.exe
+C:\Users\hp\Desktop\Files\CShark PhotoShop\CShark\obj\Debug\CShark.pdb

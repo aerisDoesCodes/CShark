@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CShark", "CShark\CShark.csproj", "{BA3F01F3-AB74-46C5-B21B-983CC634D192}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "CShark Setup", "CShark Setup\CShark Setup.vdproj", "{B0810101-661B-446C-98C1-3041F3E622DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA3F01F3-AB74-46C5-B21B-983CC634D192}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA3F01F3-AB74-46C5-B21B-983CC634D192}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA3F01F3-AB74-46C5-B21B-983CC634D192}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA3F01F3-AB74-46C5-B21B-983CC634D192}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0810101-661B-446C-98C1-3041F3E622DE}.Debug|Any CPU.ActiveCfg = Debug
+		{B0810101-661B-446C-98C1-3041F3E622DE}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9880781D-BAFD-4F75-B40E-7FC00D4B8213}
+	EndGlobalSection
+EndGlobal

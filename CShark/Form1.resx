@@ -1,0 +1,235 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value>CShark's Licence
+
+1) This license agreement is a legal agreement between you and the author of this program.
+
+2) By installing or otherwise using this program you agree to be bound by this agreement. If you do not agree to the terms of this Agreement, you may not install or use this program.
+
+3) This program is distributed as "FREEWARE" and "AS IS".
+
+4) The author specifically disclaims all warranties, expressed or implied. In no event shall the author be liable for any damage either from the direct use of this product or as a consequence of the use of this product.
+
+5) You may not use this program in actions, which infringe any law of your country or international laws.
+
+6) You may not use this program in actions, which infringe the rights of any person or entity.
+
+7) You may not use this program in a game, in which you win (earn) real money or things.
+
+8) You may not use this program or any components, to circumvent DRM or other copyright protections
+
+9) You may install and use an unlimited number of copies of this edition of the program on your computers.
+
+10) You may give this program to your friends and other people, but only in the original archive. Original Archive is defined as this installer. Which means it is allowed to be redistributed inside another installer, as long as it goes through the original installer.
+
+11) You may release this edition of the program on CD/DVD/Internet (or other media), but only in the original archive and if this CD is the programs collection.
+
+12) You may upload this edition of the program to your internet website, but only with the original archive present and this website must be with free access for users.
+
+13) You may disassemble and reverse engineer any part of this program, although just looking at the sourcecode is easier 
+
+14) You may not rent, lease or sell this program.
+
+Date of last revision: Febuary 5, 2018
+</value>
+  </data>
+  <data name="wC_Linux_Label1.Text" xml:space="preserve">
+    <value>CShark Licence
+
+1) This license agreement is a legal agreement between you and the author of this program.
+
+2) By installing or otherwise using this program you agree to be bound by this agreement. If you do not agree to the terms of this Agreement, you may not install or use this program.
+
+3) This program is distributed as "FREEWARE" and "AS IS".
+
+4) The author specifically disclaims all warranties, expressed or implied. In no event shall the author be liable for any damage either from the direct use of this product or as a consequence of the use of this product.
+
+5) You may not use this program in actions, which infringe any law of your country or international laws.
+
+6) You may not use this program in actions, which infringe the rights of any person or entity.
+
+7) You may not use this program in a game, in which you win (earn) real money or things.
+
+8) You may not use this program or any components, to circumvent DRM or other copyright protections
+
+9) You may install and use an unlimited number of copies of this edition of the program on your computers.
+
+10) You may give this program to your friends and other people, but only in the original archive. Original Archive is defined as this installer. Which means it is allowed to be redistributed inside another installer, as long as it goes through the original installer.
+
+11) You may release this edition of the program on CD/DVD/Internet (or other media), but only in the original archive and if this CD is the programs collection.
+
+12) You may upload this edition of the program to your internet website, but only with the original archive present and this website must be with free access for users.
+
+13) You may disassemble and reverse engineer any part of this program, although just looking at the sourcecode is easier 
+
+14) You may not rent, lease or sell this program.
+
+Date of last revision: Febuary 5, 2018
+
+</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="Theme.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        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
+</value>
+  </data>
+</root>
